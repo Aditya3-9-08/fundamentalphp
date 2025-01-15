@@ -12,7 +12,7 @@
     //Karyawan menerima bonus sebesar Rp500.000 untuk setiap proyek yang selesai.
     //Pajak penghasilan adalah 12% dari total pendapatan karyawan (gaji pokok + bonus).
 
-    define("Gaji_Pokok",5000000);
+    define("Gaji_Pokok",5000000); 
     define("Karyawan_Bonus",500000);
     define("Pajak_Proyek",0.12);
 
